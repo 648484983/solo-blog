@@ -10,6 +10,7 @@ MC 的个人博客
 
 ### 最新
 
+* [十大经典排序算法-JAVA](http://mcblog.shavekevin.com/articles/2019/06/21/1561100500199.html)
 * [leetcode 从排序数组中删除重复项](http://mcblog.shavekevin.com/articles/2019/06/14/1560483110741.html)
 * [Docker拉取镜像Client.Timeout exceeded while awaiting headers](http://mcblog.shavekevin.com/articles/2019/05/29/1559116965815.html)
 * [世界，你好！](http://mcblog.shavekevin.com/hello-solo)
