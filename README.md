@@ -5,16 +5,14 @@ MC 的个人博客
 <h4 align="center">记录精彩的程序人生</h4>
 <p align="center"><a title="MC 的个人博客" target="_blank" href="https://github.com/648484983/solo-blog"><img src="https://img.shields.io/github/last-commit/648484983/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/648484983/solo-blog"><img src="https://img.shields.io/github/repo-size/648484983/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.2-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/648484983/solo-blog.svg"></a></p>
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](http://mcblog.shavekevin.com/my-github-repos)
-* [十大经典排序算法-JAVA](http://mcblog.shavekevin.com/articles/2019/06/21/1561100500199.html)
-* [leetcode 从排序数组中删除重复项](http://mcblog.shavekevin.com/articles/2019/06/14/1560483110741.html)
-* [Docker拉取镜像Client.Timeout exceeded while awaiting headers](http://mcblog.shavekevin.com/articles/2019/05/29/1559116965815.html)
-* [世界，你好！](http://mcblog.shavekevin.com/hello-solo)
+* [十大经典排序算法-JAVA](http://www.mammom.cn/articles/2019/06/21/1561100500199.html)
+* [leetcode 从排序数组中删除重复项](http://www.mammom.cn/articles/2019/06/14/1560483110741.html)
+* [Docker拉取镜像Client.Timeout exceeded while awaiting headers](http://www.mammom.cn/articles/2019/05/29/1559116965815.html)
 
 
 
